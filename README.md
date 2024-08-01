@@ -1,0 +1,1 @@
+I am a Civil & Water Resources Engineering graduate. I aim to excel both academically & professionally. As such, I am uploading Python coding projects here on Github for my future employers and fellow programmers to see.
